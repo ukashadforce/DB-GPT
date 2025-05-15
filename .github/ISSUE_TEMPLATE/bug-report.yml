@@ -18,6 +18,7 @@ body:
         first to see whether the same issue was reported already.
       options:
         - label: >
+      label: Search before asking
             I had searched in the [issues](https://github.com/eosphoros-ai/DB-GPT/issues?q=is%3Aissue) and found
             no similar issues.
           required: true
